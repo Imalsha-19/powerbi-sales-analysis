@@ -5,7 +5,7 @@ This project is a Power BI dashboard that visualizes sales performance data. It 
 
 ## 📁 Files Included
 - `Sales_Dashboard.pbix`: Main Power BI file
-- `sales_data.csv`: Raw data used
+- `pizza_sales.csv`: Raw data used
 - `SQL_Queries.sql`: Queries used to clean and analyze data
 - `Project_Report.pdf`: Detailed explanation of the project (optional)
 
