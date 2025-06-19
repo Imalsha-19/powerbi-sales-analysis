@@ -4,10 +4,9 @@
 This project is a Power BI dashboard that visualizes sales performance data. It includes KPIs, trend analysis, top-performing products, and regional performance.
 
 ## 📁 Files Included
-- `Sales_Dashboard.pbix`: Main Power BI file
+- `Pizza Sales Analysis Report.pbix`: Main Power BI file
 - `pizza_sales.csv`: Raw data used
-- `SQL_Queries.sql`: Queries used to clean and analyze data
-- `Project_Report.pdf`: Detailed explanation of the project (optional)
+- `Pizza Sales Analysis Report.pdf`: Detailed explanation of the project (optional)
 
 ## 📌 Features
 - Dynamic KPIs: Total Sales, Profit, Quantity Sold
